@@ -1,2 +1,2 @@
-# VSharp
+# V#
 V# Programing Language. Framework of V.
